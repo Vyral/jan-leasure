@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Zombie Foreclosure?
-date:
+date: 2019-10-04 20:32:23
 tags:
   - Real Estate
 excerpt: >-
