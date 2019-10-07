@@ -19,7 +19,7 @@ youtube_code: mYuwD4_3MjA
 
 {% include youtube.html %}
 
-Many of my clients in Libertyville have been asking me about a strange phenomenon called ***Zombie Foreclosures*. A Zombie Foreclosure is a situation that occurs when you have left your home and it has been foreclosed, but you are still on the title to the property.** This is essentially a property that is in your name because the bank did not come back and repurchase the property in a sherriff's sale.
+Many of my clients in Libertyville have been asking me about a strange phenomenon called ***Zombie Foreclosures*. A Zombie Foreclosure is a situation that occurs when you have left your home and it has been foreclosed, but you are still on the title to the property.** This is essentially a property that is in your name because the bank did not come back and repurchase the property in a sheriff's sale.
 
 It's extremely important to figure out if you are still on the title to the property because it can prevent you from purchasing a new home. **FHA rules state that you cannot make a new purchase until you are off of title for 36 months.**
 
