@@ -19,7 +19,7 @@ youtube_code: uUD2R5aVIB8
 
 {% include youtube.html %}
 
-This December, we’re helping Twice As Nice Mother & Child raise over 20,000 diapers for families in need of baby supplies\!
+<p style="text-align: center;"><em>This December, we’re helping Twice As Nice Mother & Child raise over 20,000 diapers for families in need of baby supplies\!</em></p>
 
 Today I wanted to talk diapers with you; I’m proud to announce that I’ve been named to the board of Twice As Nice Mother & Child, a nonprofit organization in Lake County that distributes over 200,000 diapers annually to local mothers who need supplies for their babies. In December, we look forward to doing our part to help Twice As Nice by aiming to collect 20,000 diapers. We hope that you will join us in this wonderful effort to equip mothers all over Lake County this holiday season. Happy holidays from our family to yours\!&nbsp;
 
