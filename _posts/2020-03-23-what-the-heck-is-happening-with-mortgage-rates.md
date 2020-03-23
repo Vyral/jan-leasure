@@ -57,6 +57,6 @@ The Q & A above are just a small sampling of the dozens of questions that I am r
 <center><a href="https://apply.diamondresidential.com/#/milestones?referrerId=jan.leasure%40drmconline.com"
   class="share-button Apply"
   target="_blank">Apply Here</a></center>
-&nbsp
+&nbsp;
 
 Thank you for watching my video and I will keep everyone up to date and posted on changes.
