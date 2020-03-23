@@ -21,7 +21,7 @@ youtube_code: l_hLgenCSOs
 
 {% include youtube.html %}
 
-With the global financial markets in such turmoil because of the fear of the corona virus, businesses shuttering etc. both the stock market and bond market are in turmoil which in turn creates instability in mortgage rates.
+<p style="text-align: center;"><em>With the global financial markets in such turmoil because of the fear of the corona virus, businesses shuttering etc. both the stock market and bond market are in turmoil which in turn creates instability in mortgage rates.</em></p>
 
 There is so much confusion with everything that is happening in the world – if you are watching this you and your families are really important to me so I am wishing you good health and hope that this pandemonium is over soon.
 
