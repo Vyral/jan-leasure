@@ -57,37 +57,5 @@ The Q & A above are just a small sampling of the dozens of questions that I am r
 <a href="https://apply.diamondresidential.com/#/milestones?referrerId=jan.leasure%40drmconline.com"
   class="share-button Apply"
   target="_blank">Apply Here
-.share-button {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  padding: 3px 10px 2px 8px;
-  margin: 10px;
-  color: #fff;
-  background-color: #333;
-  border-radius: 2px;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
-  text-decoration: none;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-weight: 600;
-  font-size: 15px;
-}
-
-.share-button:hover {
-  color: #fff;
-  background-color: #4f4f4f;
-}
-
-.share-button:active {
-  top: 1px;
-  box-shadow: 0 0 1px rgba(0, 0, 0, 0.25);
-}
-
-.share-button svg {
-  fill: #ffffff;
-  width: 19px;
-  height: 19px;
-  margin-right: 5px;
-}
 </a>
 Thank you for watching my video and I will keep everyone up to date and posted on changes.
