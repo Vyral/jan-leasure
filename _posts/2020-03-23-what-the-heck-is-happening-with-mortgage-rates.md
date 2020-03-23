@@ -53,35 +53,5 @@ The best advice I can give Adam and anyone else who feels that they missed out o
 
 The Q & A above are just a small sampling of the dozens of questions that I am receiving during this time. I want to answer everyone’s questions as we move forward through these difficult times.&nbsp; Feel free to email, text, call me or send me your questions on Instant Messenger.&nbsp; I am planning to do regular Facebook Live sessions so that we can discuss our strategy moving forward to give everyone awesome service.&nbsp; **For now, my best suggestion is to “get prepared and get in line” for when rates come down.** We cannot lock loans unless we have an application in the system.&nbsp; Rates are based on your credit score, loan to value, debt to income and appraised value.&nbsp; We may not move forward with an appraisal but as long as we have an application in the file, when rates drop back down we can lock.&nbsp; There is an “Apply Here” button below that will allow you secure access to get your application in.
 
-<a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexample.com%2F"
-  class="share-button Apply"
-  target="_blank">Apply Here</a>
-.share-button {
-  position: relative;
-  display: inline-flex;
-  align-items: center;
-  padding: 3px 10px 2px 8px;
-  margin: 10px;
-  color: #fff;
-  background-color: #333;
-  border-radius: 2px;
-  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
-  text-decoration: none;
-  font-family: "Open Sans", Helvetica, Arial, sans-serif;
-  font-weight: 600;
-  font-size: 15px;
-}
-.share-button.Apply {
-  background-color: #fefefe;
-  color: #333;
-}
 
-.share-button.Apply:hover {
-  background-color: #f6f6f6;
-  color: #333;
-}
-
-.share-button.Apply svg {
-  fill: #DB4437;
-}
 Thank you for watching my video and I will keep everyone up to date and posted on changes.
