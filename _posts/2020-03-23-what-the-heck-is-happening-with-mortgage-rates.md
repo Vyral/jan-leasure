@@ -8,7 +8,7 @@ excerpt: >-
   With the global financial markets in such turmoil because of the fear of the
   corona virus, businesses shuttering etc. both the stock market and bond market
   are in turmoil which in turn creates instability in mortgage rates.
-enclosure:
+enclosure: https://vyralmarketing.s3.amazonaws.com/Jan+Leasure/What+the+Heck+is+Happening+with+Mortgage+Rates_.mp4
 pullquote: >-
   For now, my best suggestion is to “get prepared and get in line” for when
   rates come down
