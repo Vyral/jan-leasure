@@ -36,6 +36,8 @@ With the global financial markets in such turmoil because of the fear of the cor
 
 I absolutely would move forward.&nbsp; Mortgage rates are an ebb and flow process.&nbsp; If you end up closing at a rate that you feel is too high, watch the market and refinance in 8 months to a year, I guarantee things will change\!
 
+{% include pullquote.html %}
+
 **Miss Alice, Lake Forest, IL asks, “Should I refinance from a 30 year fixed to a 15?”**
 
 You should refinance from a longer term to a shorter term only if the shorter term rate is low enough to keep your old payment the same, or increase it slightly to make the change worthwhile.
