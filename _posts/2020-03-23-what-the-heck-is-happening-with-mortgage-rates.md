@@ -8,7 +8,8 @@ excerpt: >-
   With the global financial markets in such turmoil because of the fear of the
   corona virus, businesses shuttering etc. both the stock market and bond market
   are in turmoil which in turn creates instability in mortgage rates.
-enclosure: https://vyralmarketing.s3.amazonaws.com/Jan+Leasure/What+the+Heck+is+Happening+with+Mortgage+Rates_.mp4
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jan+Leasure/What+the+Heck+is+Happening+with+Mortgage+Rates_.mp4
 pullquote: >-
   For now, my best suggestion is to “get prepared and get in line” for when
   rates come down
@@ -21,7 +22,7 @@ youtube_code: l_hLgenCSOs
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>With the global financial markets in such turmoil because of the fear of the corona virus, businesses shuttering etc. both the stock market and bond market are in turmoil which in turn creates instability in mortgage rates.</em></p>
+*With the global financial markets in such turmoil because of the fear of the corona virus, businesses shuttering etc. both the stock market and bond market are in turmoil which in turn creates instability in mortgage rates.*
 
 There is so much confusion with everything that is happening in the world – if you are watching this you and your families are really important to me so I am wishing you good health and hope that this pandemonium is over soon.
 
@@ -53,5 +54,6 @@ The best advice I can give Adam and anyone else who feels that they missed out o
 
 The Q & A above are just a small sampling of the dozens of questions that I am receiving during this time. I want to answer everyone’s questions as we move forward through these difficult times.&nbsp; Feel free to email, text, call me or send me your questions on Instant Messenger.&nbsp; I am planning to do regular Facebook Live sessions so that we can discuss our strategy moving forward to give everyone awesome service.&nbsp; **For now, my best suggestion is to “get prepared and get in line” for when rates come down.** We cannot lock loans unless we have an application in the system.&nbsp; Rates are based on your credit score, loan to value, debt to income and appraised value.&nbsp; We may not move forward with an appraisal but as long as we have an application in the file, when rates drop back down we can lock.&nbsp; There is an “Apply Here” button below that will allow you secure access to get your application in.
 
+&nbsp;
 
 Thank you for watching my video and I will keep everyone up to date and posted on changes.
