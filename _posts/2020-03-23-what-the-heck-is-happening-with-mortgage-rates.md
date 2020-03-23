@@ -4,7 +4,10 @@ title: What the Heck is Happening with Mortgage Rates?
 date: 2020-03-23 16:52:00
 tags:
   - Real Estate
-excerpt:
+excerpt: >-
+  With the global financial markets in such turmoil because of the fear of the
+  corona virus, businesses shuttering etc. both the stock market and bond market
+  are in turmoil which in turn creates instability in mortgage rates.
 enclosure:
 pullquote: >-
   For now, my best suggestion is to “get prepared and get in line” for when
@@ -17,6 +20,8 @@ youtube_code: l_hLgenCSOs
 ---
 
 {% include youtube.html %}
+
+With the global financial markets in such turmoil because of the fear of the corona virus, businesses shuttering etc. both the stock market and bond market are in turmoil which in turn creates instability in mortgage rates.
 
 There is so much confusion with everything that is happening in the world – if you are watching this you and your families are really important to me so I am wishing you good health and hope that this pandemonium is over soon.
 
