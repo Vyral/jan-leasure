@@ -52,12 +52,33 @@ You should refinance from a longer term to a shorter term only if the shorter te
 The best advice I can give Adam and anyone else who feels that they missed out on the low rates that we were experiencing just a few weeks ago is this: Do what the Girl Scouts suggest, “Be Prepared.” Pick a lender that you trust, fill out an application, talk to your loan officer, determine a rate that you feel comfortable with and sit back and watch the rates.&nbsp; If you are currently at 4.75% on a 30 year fixed and 3.75% is your magic number; wait it out, have all of your documentation in to the lender and give permission to lock when rates hit your desired number.
 
 The Q & A above are just a small sampling of the dozens of questions that I am receiving during this time. I want to answer everyone’s questions as we move forward through these difficult times.&nbsp; Feel free to email, text, call me or send me your questions on Instant Messenger.&nbsp; I am planning to do regular Facebook Live sessions so that we can discuss our strategy moving forward to give everyone awesome service.&nbsp; **For now, my best suggestion is to “get prepared and get in line” for when rates come down.** We cannot lock loans unless we have an application in the system.&nbsp; Rates are based on your credit score, loan to value, debt to income and appraised value.&nbsp; We may not move forward with an appraisal but as long as we have an application in the file, when rates drop back down we can lock.&nbsp; There is an “Apply Here” button below that will allow you secure access to get your application in.
-<center><a href="https://apply.diamondresidential.com/#/milestones?referrerId=jan.leasure%40drmconline.com"
-  class="share-button Apply"
-  target="_blank">
-    <svg fill="#000000"
-      height="24"
-      viewBox="0 0 24 24"
-      width="24"
-      xmlns="http://www.w3.org/2000/svg"><path d="M19,4V7H17A1,1 0 0,0 16,8V10H19V13H16V20H13V13H11V10H13V7.5C13,5.56 14.57,4 16.5,4M20,2H4A2,2 0 0,0 2,4V20A2,2 0 0,0 4,22H20A2,2 0 0,0 22,20V4C22,2.89 21.1,2 20,2Z" /></svg> Apply Here</a><center
+
+.share-button {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  padding: 3px 10px 2px 8px;
+  margin: 10px;
+  color: #fff;
+  background-color: #333;
+  border-radius: 2px;
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.35);
+  text-decoration: none;
+  font-family: "Open Sans", Helvetica, Arial, sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+}
+.share-button.Apply {
+  background-color: #fefefe;
+  color: #333;
+}
+
+.share-button.Apply:hover {
+  background-color: #f6f6f6;
+  color: #333;
+}
+
+.share-button.Apply svg {
+  fill: #DB4437;
+}
 Thank you for watching my video and I will keep everyone up to date and posted on changes.
