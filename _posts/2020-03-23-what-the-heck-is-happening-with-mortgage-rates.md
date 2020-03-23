@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What the Heck is Happening with Mortgage Rates?
-date:
+date: 2020-03-23 16:52:13
 tags:
   - Real Estate
 excerpt:
