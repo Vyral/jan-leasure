@@ -19,7 +19,8 @@ youtube_code: ttlxCeTiWkI
 
 {% include youtube.html %}
 
-Today I’m unfortunately coming to you with a warning. The requirements to receive a home loan have changed.
+<p style="text-align: center;"><em>Today I’m unfortunately coming to you with a warning. The requirements to receive a home loan have changed.</em></p>
+
 
 Today I’m coming to you with a warning. As of a few days ago, the FHA was providing credit score-driven loans with a middle score as low as 580. Unfortunately, to now purchase a house on a government loan, you need at least a 680 middle score. It’s also tough for us to lock in a decent mortgage rate for you right now because of everything going on due to the health crisis. Although everyone is currently stuck at home, this is actually an ideal time to work on your credit.
 
