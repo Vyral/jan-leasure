@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Score Do You Need to Get a Loan?
-date:
+date: 2020-04-06 21:42:13
 tags:
   - Real Estate
 excerpt: >-
