@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is a Zombie Foreclosure?
+title: 'Q: Is Your Old Home Still Haunting You?'
 date: 2020-10-14 08:32:00
 tags:
   - Real Estate
