@@ -18,7 +18,7 @@ youtube_code: re7pFFS8rh0
 
 {% include youtube.html %}
 
-Want to be a subdivision superhero? Now’s your chance to help families.
+<p style="text-align:center;"><em>Want to be a subdivision superhero? Now’s your chance to help families.</em></p>
 
 As you may know, I’m on the board of directors for the charity Twice as Nice Mother and Child, which is dedicated to lending a helping hand to families in need. We just gave away our millionth diaper for 2020, which is amazing considering everything that’s happened in our community and country at large. Now we’re hosting diaper drives all over the place through the program Be a Subdivision Hero, and we’re inviting you to join us by hosting a diaper drive in your neighborhood to help local families.&nbsp;
 
