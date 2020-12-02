@@ -18,16 +18,18 @@ youtube_code: re7pFFS8rh0
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Want to be a subdivision superhero? Now’s your chance to help families.</em></p>
+*Want to be a subdivision superhero? Now’s your chance to help families.*
 
 As you may know, I’m on the board of directors for the charity Twice as Nice Mother and Child, which is dedicated to lending a helping hand to families in need. We just gave away our millionth diaper for 2020, which is amazing considering everything that’s happened in our community and country at large. Now we’re hosting diaper drives all over the place through the program Be a Subdivision Hero, and we’re inviting you to join us by hosting a diaper drive in your neighborhood to help local families.&nbsp;
 
 **If you’re interested, all you have to do is contact us to schedule a pick up of the diaper drive toolkit, which includes:**
 
 * A host packet with customizable flyers, a collection form, and more
-* Two to four-yard signs (picture attached)
+* Two to four-yard signs (picture below)
 * Two donation boxes with handles
 * 25 Keeping Families Covered tri-fold brochures
+
+![](/uploads/facebook---subdivision-superhero-flyer.png){: width="940" height="788"}
 
 The idea is to get your neighbors involved and come up with a plan for which house (or houses) in your neighborhood will be the diaper drop-off places. **The beauty of this is that it can be contactless\!** We will provide the donation boxes that you can place on your front porch or wherever you want to put them. The yard signs will let your neighbors know that you are a subdivision superhero and where they can drop off diapers.&nbsp;
 
