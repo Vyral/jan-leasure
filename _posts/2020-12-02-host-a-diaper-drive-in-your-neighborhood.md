@@ -29,7 +29,7 @@ As you may know, I’m on the board of directors for the charity Twice as Nice M
 * Two donation boxes with handles
 * 25 Keeping Families Covered tri-fold brochures
 
-![](/uploads/facebook---subdivision-superhero-flyer.png){: width="0" height="0"}
+![](/uploads/facebook---subdivision-superhero-flyer.png){: width="" height=""}
 
 The idea is to get your neighbors involved and come up with a plan for which house (or houses) in your neighborhood will be the diaper drop-off places. **The beauty of this is that it can be contactless\!** We will provide the donation boxes that you can place on your front porch or wherever you want to put them. The yard signs will let your neighbors know that you are a subdivision superhero and where they can drop off diapers.&nbsp;
 
