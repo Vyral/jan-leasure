@@ -25,7 +25,7 @@ As you may know, I’m on the board of directors for the charity Twice as Nice M
 **If you’re interested, all you have to do is contact us to schedule a pick up of the diaper drive toolkit, which includes:**
 
 * A host packet with customizable flyers, a collection form, and more
-* Two to four-yard signs (picture below)
+* Two to four yard signs (pictured below)
 * Two donation boxes with handles
 * 25 Keeping Families Covered tri-fold brochures
 
@@ -35,7 +35,7 @@ The idea is to get your neighbors involved and come up with a plan for which hou
 
 {% include pullquote.html %}
 
-Diaper drives are the most successful when they are held for three to four weeks, but you are welcome to structure them however you would want. If your subdivision is on social media, let us know so that we can tag you and highlight your support\!
+Diaper drives are the most successful when they are held for three to four weeks, but you are welcome to structure them however you want. If your subdivision is on social media, let us know so that we can tag you and highlight your support\!
 
 We would like the yard signs and donation boxes returned so that we can reuse them. Once your drive ends, **diaper donations can be brought to our office, or we can pick them up.** Dropping off donations at the office is a great photo opportunity\! All of the diapers you see in the video above came courtesy of my friend Carly, owner of Singalila Gallery.&nbsp;
 
