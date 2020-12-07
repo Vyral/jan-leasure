@@ -5,7 +5,8 @@ date: 2020-12-02 19:18:00
 tags:
   - Real Estate
 excerpt: Want to be a subdivision superhero? Now’s your chance to help families.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Jan+Leasure/Want+to+Be+a+Subdivision+Superhero_.mp4
 pullquote: >-
   We’re hosting diaper drives all over the place through the program Be a
   Subdivision Hero.
