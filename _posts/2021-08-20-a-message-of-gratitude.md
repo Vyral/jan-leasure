@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Message of Gratitude and Thanks
+title: A Message of Gratitude
 date: 2021-08-20 00:00:00
 tags:
 excerpt: I’m humbled to receive this honor, and it’s thanks to all of you.
