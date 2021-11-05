@@ -33,4 +33,4 @@ Today I’m talking with Dave Wilkerson, a Realtor and friend of mine. I’ve wo
 
 5:46— Wrapping up
 
-If you’re looking for a mortgage broker or you have anything else you’d like to ask,give me a call. I’m here to answer any questions you may have.
+If you’re looking for a mortgage broker or you have anything else you’d like to ask, give me a call. I’m here to answer any questions you may have.
