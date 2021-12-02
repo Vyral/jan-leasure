@@ -18,6 +18,6 @@ youtube_code: uLdiym4ONwg
 
 I’m proud to be on the board of directors for Keeping Families Covered, our county’s diaper bank. 1,200 diapers were recently donated by my friend Karlie, who is the owner and artist of Singalila Gallery in front of our office.
 
-**We are now starting another promotion called “Huggies for the Holidays.”** We will be taking donations until December 31st at Diamond Residential Mortgage in Libertyville. I'm really competitive, so my goal is to outdo Karlie and collect 2,500 diapers, but I need your help. We take donations of diapers or money to buy diapers. We also are looking for volunteers to help out. If you’re able to, please donate.
+**We are now starting another promotion called “Huggies for the Holidays.”** We will be taking donations until December 31 at Diamond Residential Mortgage in Libertyville. I'm really competitive, so my goal is to outdo Karlie and collect 2,500 diapers, but I need your help. We take donations of diapers or money to buy diapers. We also are looking for volunteers to help out. If you’re able to, please donate.
 
-If you have any questions or would like more information, don’t hesitate to reach out.
+If you have any questions or would like more information, don’t hesitate to reach out via phone or email.
