@@ -16,8 +16,26 @@ youtube_code: OWrDGH46qx0
 
 {% include excerpt.html %}
 
-Merry Christmas\! We hope you and your family have a wonderful holiday.&nbsp;
+Happy Holidays 2021
 
-We just wanted to take a moment to thank you for your continued support throughout the years. We wouldn’t be where we are today without your help\! **It truly brings us joy to help you make your real estate dreams a reality.&nbsp;**
+Dear Clients, Friends & fellow Grinches\!
 
-If you have any questions, please don’t hesitate to reach out to us. We’re here to help you in any way we can. Have a very merry Christmas\!
+As we celebrate our TENTH holiday with Diamond Residential Mortgage and our 21st Christmas in our location at 533 N. Milwaukee Avenue in Libertyville we want to wish you the happiest of holidays and our best wishes for a healthy and prosperous 2022\!&nbsp;
+
+We have all surmounted a lot of obstacles in the past 24 months and here at Diamond Libertyville, we want you to know that we just feel so blessed to have you as our dear clients and friends.&nbsp;
+
+Great mortgage news for 2021\! The conventional lending caps are moving from $548,250 to $647,200 and the FHA loan limits are increasing from $356,362 to $420,680\!&nbsp; This will help a lot of homebuyers in the coming year.&nbsp;&nbsp;
+
+What’s new in our office? We have expanded several areas of our lending portfolio\! Our conventional and FHA construction loans, used for both new construction and home rehab are becoming very hot commodities and we are available to discuss those with you if we piqued your interest\!
+
+In addition, if you have a friend or family member who has a desire to remain in their home as they age, we are back to doing reverse mortgages for borrowers age 62 and over. The terms have improved immensely, and we recently saved a beautiful Arizona property for some close friends who would have had to sell their dream home without the benefit of a reverse mortgage. Reach out for details\!
+
+Finally, Jan has been busy increasing her USA licensing and is now licensed not only in Illinois, Wisconsin, and Florida but also in Indiana, California, Texas, Missouri, Washington, and Georgia\!
+
+Feel free to reach out or stop into the office to see us, we are ALWAYS here\! 😊
+
+Best wishes for everything good in 2022\!
+
+Jan and team\!
+
+Jessica, Daniela, Afumi, John, and Marlene\!
