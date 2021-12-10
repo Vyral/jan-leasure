@@ -20,4 +20,4 @@ Merry Christmas\! We hope you and your family have a wonderful holiday.&nbsp;
 
 We just wanted to take a moment to thank you for your continued support throughout the years. We wouldn’t be where we are today without your help\! **It truly brings us joy to help you make your real estate dreams a reality.&nbsp;**
 
-If you have any questions, please don’t hesitate to reach out to us. We’re here to help you in any way we can. Have a very Merry Christmas\!
+If you have any questions, please don’t hesitate to reach out to us. We’re here to help you in any way we can. Have a very merry Christmas\!
