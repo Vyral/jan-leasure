@@ -27,6 +27,6 @@ Today we wanted to show you around our office and introduce you to everyone on t
 
 **John Bloss** is our senior loan officer. He helps the team keep moving forward.
 
-Of course, we can forget our official greeter, Sammi, the dog\!
+Of course, we can't forget our official greeter, Sammi, the dog\!
 
-Thank you for taking the time to meet our team. We hope you think of us the next time you or your friends and family need a mortgage. Just call or email us; we’d be happy to help you.
+Thank you for taking the time to meet our team. We hope you think of us the next time you or your friends or family need a mortgage. Just call or email us; we’d be happy to help you.
