@@ -29,6 +29,6 @@ However, what happens if you’re like me and it’s time for you to move? I’v
 
 {% include pullquote.html %}
 
-If I was moving, my priority would be to make enough money to pay someone else to do it for me. However, that’s not the reality for most of us. **[If you can’t afford professional movers and have to move on your own, I want you to download my moving guide here.](https://mortgagemoneygirl.com/uploads/MOVING-CHECKLIST_new-Jan-Flyer.pdf?_cchid=8709441a414a097ede086630bfee2233){: target="_blank" rel="noopener"}** If you love me enough that you have my email or phone number, you can also reach out directly, and I’ll send you a copy myself.
+If I was moving, my priority would be to make enough money to pay someone else to do it for me. However, that’s not the reality for most of us. **[If you can’t afford professional movers and have to move on your own, I want you to download my moving guide here.](https://mortgagemoneygirl.com/uploads/MOVING-CHECKLIST_new-Jan-Flyer.pdf){: target="_blank" rel="noopener"}** If you love me enough that you have my email or phone number, you can also reach out directly, and I’ll send you a copy myself.
 
 If you have any other questions for me about moving or buying a home in general, don’t hesitate to reach out via phone or email today. I look forward to hearing from you. Happy moving\!
