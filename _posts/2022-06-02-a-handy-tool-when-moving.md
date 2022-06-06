@@ -3,6 +3,7 @@ layout: post
 title: A Handy Tool When Moving
 date: 2022-06-02 00:00:00
 tags:
+  - Mortgage
 excerpt: Here’s a great tool I’ve developed to help you move with ease.
 enclosure:
 pullquote: This is a very useful tool if you’re moving in the near future.
@@ -10,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/tips-for-moving-leasure-yt.jpg
-youtube_code:
+youtube_code: XEg5vH2FJu0
 ---
 {% include youtube.html %}
 
