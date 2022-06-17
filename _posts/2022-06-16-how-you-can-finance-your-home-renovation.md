@@ -22,4 +22,6 @@ We have a crazy market right now. Just last month, a real estate agent friend of
 
 If you’re someone who lives in a tiny or old home, and you’re looking to live in a house that can accommodate your needs, what other options do you have since the market conditions are not in your favor? For cases like this, I can help you **get a home renovation loan so you can upgrade your home** to a much more livable place that can satisfy the demands of your lifestyle.
 
-For any of your renovation lending concerns, don’t hesitate to call or email me so we can schedule an appointment and get started with your [home renovations](/uploads/Borrower-Renovation-Punch-List-Flyer-2022.pdf){: target="_blank" rel="noopener"}. I’ll be happy to help\!
+[Click here to download my renovation lending checklist.](https://mortgagemoneygirl.com/uploads/Borrower-Renovation-Punch-List-Flyer-2022.pdf?_cchid=5aefc57bd662a224c30a4a65d355631c){: target="_blank" rel="noopener"}
+
+For any of your renovation lending concerns, don’t hesitate to call or email me so we can schedule an appointment and get started with your home renovations. I’ll be happy to help\!
