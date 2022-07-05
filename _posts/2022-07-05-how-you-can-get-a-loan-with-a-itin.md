@@ -23,4 +23,4 @@ Who do you know who’s from another country? For example, Mexico, Canada, China
 
 With an ITIN, you can buy a primary residence, a second home, or a one- to four-unit property that you live in as an owner-occupant. However, you can’t buy investment properties.
 
-If you have any questions, feel free to call or email me. You can also download [this flier](https://drive.google.com/file/d/1-sMjbYPAcnZWMVxE3fYmtcA7FoeOe7Ip/view) to learn more about getting a loan with an ITIN.
+If you have any questions, feel free to call or email me. You can also download [this flier](/uploads/itin-borrower-download-2022.pdf){: target="_blank" rel="noopener"} to learn more about getting a loan with an ITIN.
