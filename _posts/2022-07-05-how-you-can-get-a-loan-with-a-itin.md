@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How You Can Get a Loan With a ITIN
+title: How You Can Get a Loan With an ITIN
 date: 2022-07-05 00:00:00
 tags:
   - Mortgage
@@ -17,7 +17,7 @@ youtube_code: kI6BbdAtCao
 
 {% include excerpt.html %}
 
-Who do you know who’s from another country? For example, Mexico, Canada, China, my homeland Italy, or anywhere else. If they don’t have a social security number, they’re likely working with an ITIN, or an individual taxpayer identification number.
+Do you know someone from another country like Mexico, Canada, China, or my homeland, Italy? If they don’t have a social security number, they’re likely working with an ITIN, or an individual taxpayer identification number.
 
 **I bet you didn’t know that you could qualify for a mortgage with an ITIN.** I can get you a loan, but there are a few things you need first. You’ll need at least two years of work history in the U.S., a valid ITIN number and supporting documentation, and a down payment of 15% or more.
 
