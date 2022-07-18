@@ -26,3 +26,5 @@ Liz met Jan during a guest lecture she gave about mortgages at the College of La
 “She really does go the extra mile for her clients. She’s very charismatic. She used to be a teacher, so she’s great at explaining things in a way that isn’t confusing, and she doesn’t make you feel stupid for asking any sorts of questions. I highly recommend her and I’d never buy a house without her.”
 
 It was our pleasure to be able to help Liz and her husband buy their first house. If you are thinking about buying a home, please don’t hesitate to contact us. It would be our pleasure to help you too.
+
+*Have you worked with me in the past? For a chance to receive a Starbucks giftcard, submit your video to Jan's video testimonial project. Please email your Facebook, Instagram, or TikTok video. to:&nbsp;[jan.leasure@drmconline.com](mailto:jan.leasure@drmconline.com).*
