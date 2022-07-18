@@ -4,9 +4,7 @@ title: 'Woman of the House: Liz Cannon'
 date: 2022-07-18 00:00:00
 tags:
   - Mortgage
-excerpt: >-
-  Are you curious why so many people choose us to help them buy and sell homes?
-  Let Liz Cannon tell you.
+excerpt: Here's why so many people choose us to help them buy & sell homes.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
