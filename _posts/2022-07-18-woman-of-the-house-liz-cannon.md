@@ -27,4 +27,4 @@ Liz met Jan during a guest lecture she gave about mortgages at the College of La
 
 It was our pleasure to be able to help Liz and her husband buy their first house. If you are thinking about buying a home, please don’t hesitate to contact us. It would be our pleasure to help you too.
 
-*Have you worked with me in the past? For a chance to receive a Starbucks gift card, submit your video to Jan's video testimonial project. Please email your Facebook, Instagram, or TikTok video to:&nbsp;[jan.leasure@drmconline.com](mailto:jan.leasure@drmconline.com).*
+*Have you worked with me in the past? For a chance to receive a Starbucks gift card, [submit your video](/uploads/videotestimonial-2022-jan.png){: target="_blank" rel="noopener"} to Jan's video testimonial project. Please email your Facebook, Instagram, or TikTok video to:&nbsp;[jan.leasure@drmconline.com](mailto:jan.leasure@drmconline.com).*
