@@ -24,4 +24,4 @@ Are your kids living in the basement? Send them over, and I can qualify them to 
 
 Are your neighbors expecting twins and need a larger home? We can help them with rehab loans. Did you experience a kitchen disaster and need a remodel? I can help you there too. Do you have friends from another country working in the USA without a Social Security number, but they have an I10? I can help you with that as well.
 
-You can easily refer people to me by having them call me, send me an email, or message me via text, Instagram, Facebook, or LinkedIn. Thank you so much, and I look forward to hearing from you.
+You can easily refer people to me by having them **[call me, send me an email, or message me](https://mortgagemoneygirl.com/uploads/REFER-ME-.pdf){: target="_blank" rel="noopener"}** via text, Instagram, Facebook, or LinkedIn. Thank you so much, and I look forward to hearing from you.
