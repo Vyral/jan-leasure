@@ -10,9 +10,9 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: false
+use_youtube_image: true
 youtube_alternate_image: /uploads/refer-me-leasure-yt.jpg
-youtube_code:
+youtube_code: _PCdX7mIvs0
 ---
 {% include youtube.html %}
 
