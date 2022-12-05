@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Marrying the House and Dating the Rate: 3 Things To Consider'
+title: Marry the House and Date the Rate
 date: 2022-12-02 00:00:00
 tags:
   - Home Buyer Tips
@@ -11,8 +11,8 @@ pullquote: Be prudent in your decisions.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/marry-date-divorce-leasure-yt.jpg
-youtube_code: sC1VHS35rBc
+youtube_alternate_image: /uploads/marry-date-divorce-leasure-yt-2.jpg
+youtube_code: K4HcihLJbHU
 ---
 {% include youtube.html %}
 
