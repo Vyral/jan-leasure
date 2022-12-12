@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New House in 21 Days
+title: A New House for Christmas?
 date: 2022-12-09 00:00:00
 tags:
   - Real Estate
