@@ -20,7 +20,7 @@ youtube_code: DJLz1JEAw0U
 
 I hope your 2023 is off to a good start! Lately, my calendar has been filled up with a lot of weddings and showers. Some of the happy couples are my clients who want to ditch their $2,000 a month in rent (which is $24,000 a year if you add it up) and buy a home.&nbsp;
 
-The problem is, with paying such high rent every month on top of all of their other expenses, one of my clients didn’t know how they were going to save for a down payment on a home. We thought about this for a little while and I came up with an idea. **We went to their local bank and set up an account in their name that was earmarked for their bridal registry.&nbsp;**
+The problem is, with paying such high rent every month on top of all of their other expenses, one of my clients didn’t know how they were going to save for a down payment on a home. We thought about this for a little while, and I came up with an idea. **We went to their local bank and set up an account in their name that was earmarked for their bridal registry.&nbsp;**
 
 On their invitations, they told their guests that they could buy them a gift or contribute to the purchase of their brand-new home. **After 90 days, they had enough money for a down payment of 3.5% on a $200,000 home.** We were very excited!&nbsp;
 
