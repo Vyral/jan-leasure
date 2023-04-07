@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 simple steps to get approved for a mortgage
+title: Get Approved for a Mortgage the Easy Way
 date: 2023-04-07 00:00:00
 tags:
   - Real Estate
