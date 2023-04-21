@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Don’t Settle for a Dorm: How College Students Can Secure Wealth with a Home'
+title: 'Don’t Settle for a Dorm: How College Students Can Secure Wealth With a Home'
 date: 2023-04-20 10:00:00
 tags:
   - Real Estate
