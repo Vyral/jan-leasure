@@ -110,8 +110,8 @@ images:
   hero_logo_path: /img/logo.png
   logo_width_number: 40
   hero_text: Libertyville Real Estate Video Blog
-  hero_background_hex: '#999'
-  hero_image_path: /img/background.jpg
+  hero_background_hex: '#999999'
+  hero_image_path: /uploads/untitled-design-16.png
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
