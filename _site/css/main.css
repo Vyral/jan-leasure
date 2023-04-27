@@ -1454,12 +1454,14 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
+  height: 100%;
+  width: 100%;
   padding-top: 10rem; }
 
 #hero {
   background-position: center;
   background-size: cover;
-  background-attachment: inherit;
+  background-attachment: fixed;
   background-repeat: no-repeat;
   text-align: center; }
 
