@@ -1454,16 +1454,14 @@ label.tree-toggle {
 .hero-img {
   background-position: center;
   background-size: cover;
-  height: 100%;
-}
+  padding-top: 10rem; }
 
 #hero {
   background-position: center;
   background-size: cover;
-  height: 100%;
+  background-attachment: fixed;
   background-repeat: no-repeat;
-  text-align: center;
-}
+  text-align: center; }
 
 .site-logo {
   width: 90%;
