@@ -18,7 +18,7 @@ custom_links_new_tab:
 client:
   name: 'Jan Leasure NMLS # 213431'
   title:
-  license_number: 0
+  license_number:
   about_markdown: >-
     The Diamond Residential Mortgage team is committed to providing clients with
     the highest quality financial services combined with flexible financing. The
@@ -111,7 +111,7 @@ images:
   logo_width_number: 40
   hero_text:
   hero_background_hex: '#999999'
-  hero_image_path: /uploads/blog-banner.png
+  hero_image_path: /uploads/hero-banner.jpg
   post_cover: /img/cover.jpg
   post_cta_image: /img/home-value.jpg
   post_cta_image2: /img/home-search.jpg
