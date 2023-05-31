@@ -53,13 +53,6 @@ CTAs:
   first_CTA_text: 847-362-1335
   first_CTA_URL: tel:1-847-362-1335
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/001.jpg
-    CTA_title: Get Pre-Approved in Seconds!
-    CTA_text: >-
-      Fill out this document and print it off to fill out all the information to
-      get pre-approved
-    CTA_link_text: Click Here
-    CTA_url: https://www.scribd.com/document/164040884/Get-Pre-Approved-in-Seconds
   - CTA_image_path: /uploads/fd2233ab-076a-45e4-a9dd-144a9aab8436.png
     CTA_title: First Time Home Buyer Webinar
     CTA_text: >-
@@ -67,6 +60,13 @@ sidebar_CTA:
       buying your first home and how to save costs.
     CTA_link_text: Register Now
     CTA_url: https://webinar.janleasuremortgage.com/
+  - CTA_image_path: /img/cta-images/001.jpg
+    CTA_title: Get Pre-Approved in Seconds!
+    CTA_text: >-
+      Fill out this document and print it off to fill out all the information to
+      get pre-approved
+    CTA_link_text: Click Here
+    CTA_url: https://www.scribd.com/document/164040884/Get-Pre-Approved-in-Seconds
 lender:
   show_section: false
   header_text: Preferred Lender
