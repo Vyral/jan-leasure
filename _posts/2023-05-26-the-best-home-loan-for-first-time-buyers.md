@@ -28,4 +28,6 @@ Let’s be honest—purchasing your first home can be a little scary. There are 
 
 **3\. They might have better interest rates.** In some circumstances, FHA loans might allow you to get a lower interest rate than a conventional loan. Plus, your interest rate will be fixed, so you won’t have to worry about it increasing later, as it does with adjustable-rate mortgages. At the end of the day, your interest rate is determined by a wide variety of factors, so talk to your lender and see which loan gets you the best rate possible.&nbsp;
 
-FHA loans may not be for everyone, but they might just be the best option for first-time buyers looking to make their dreams a reality. If you have questions about these types of loans or anything else, call or email me. I am always willing to help!
+FHA loans may not be for everyone, but they might just be the best option for first-time buyers looking to make their dreams a reality. If you have questions about these types of loans or the process of home-buying, in general, consider attending my [Home Buyer 101 Webinar on June 14 @ 7 PM CST](https://webinar.janleasuremortgage.com/){: target="_blank" rel="noopener"}. I promise it will be worth your time. [Register today!](https://webinar.janleasuremortgage.com/){: target="_blank" rel="noopener"}
+
+Don't hesitate to call or email me for any of your home-buying or lending needs. I am always willing to help!
