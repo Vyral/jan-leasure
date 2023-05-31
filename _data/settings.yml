@@ -60,6 +60,13 @@ sidebar_CTA:
       get pre-approved
     CTA_link_text: Click Here
     CTA_url: https://www.scribd.com/document/164040884/Get-Pre-Approved-in-Seconds
+  - CTA_image_path: /uploads/fd2233ab-076a-45e4-a9dd-144a9aab8436.png
+    CTA_title: First Time Home Buyer Webinar
+    CTA_text: >-
+      Join us on our next free live webinar where experts will teach you about
+      buying your first home and how to save costs.
+    CTA_link_text: Register Now
+    CTA_url: https://webinar.janleasuremortgage.com/
 lender:
   show_section: false
   header_text: Preferred Lender
