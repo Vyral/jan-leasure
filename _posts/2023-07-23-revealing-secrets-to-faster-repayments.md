@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Revealing Secrets To Faster Repayments
+title: 3 Ways to Slash Years off Your Mortgage
 date: 2023-07-23 10:00:00
 tags:
   - Real Estate
