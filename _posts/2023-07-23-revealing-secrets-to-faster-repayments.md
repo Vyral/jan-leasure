@@ -10,7 +10,7 @@ pullquote: Paying off your mortgage in half the time requires dedication and pla
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/paying.jpg
+youtube_alternate_image: /uploads/payoff.jpg
 youtube_code:
 ---
 {% include excerpt.html %}
