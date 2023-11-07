@@ -12,13 +12,9 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/shutterstock-2146902347.jpg
 youtube_code:
 ---
-{% include youtube.html %}
-
-{% include excerpt.html %}
-
 Applying for a home loan can be an exciting yet nerve-wracking process. It often marks a significant milestone in one's life - the journey to homeownership. However, the road to securing a mortgage is not without its pitfalls. To increase your chances of approval and secure favorable terms, it's crucial to avoid certain financial missteps. Today, we will discuss the top three things you should not do when applying for a home loan.
 
 **1\. Taking out other loans or financing big items.** One of the most common mistakes potential buyers make is taking out additional loans or financing significant purchases before or during the mortgage application process. This can significantly impact your creditworthiness and debt-to-income ratio (DTI). To avoid this pitfall, refrain from taking out new loans or financing big-ticket items until after you have successfully secured your home loan. Here's why you should avoid this mistake:
@@ -37,7 +33,7 @@ Applying for a home loan can be an exciting yet nerve-wracking process. It often
 
 * *Increased Debt-to-Income Ratio*: As with other loans, credit card debt can contribute to a high DTI, making it difficult to qualify for a mortgage.
 
-* *Negative Payment History*: Missing credit card payments can result in late payment notations on your credit report, which can be a red flag for lenders.​​​​​​​
+* *Negative Payment History*: Missing credit card payments can result in late payment notations on your credit report, which can be a red flag for lenders.
 
 **3\. Changing jobs or taking a leave of absence.** Stability and consistent income are key factors lenders consider when assessing your mortgage application. Changing jobs or taking a leave of absence can raise concerns for lenders. Try to maintain a stable employment situation during the mortgage application process. If a job change is inevitable, consult with your lender to understand how it might impact your application. Here's why changing jobs is a red flag:
 
