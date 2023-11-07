@@ -21,9 +21,8 @@ Applying for a home loan can be an exciting yet nerve-wracking process. It often
 
 * *Increased Debt Burden*: Every new loan or financing arrangement adds to your existing debt load. Mortgage lenders carefully assess your DTI to determine if you can comfortably afford the monthly mortgage payments. High DTI ratios can lead to loan rejection or less favorable terms.
 
-* *Risky Financial Behavio*r: Lenders view new loans as potential risks, especially if they are taken out shortly before applying for a mortgage. It may signal to them that you are overextending yourself financially.
-
-*Lower Credit Score*: Each new credit inquiry affects your credit score. Lower credit scores can lead to higher interest rates on your mortgage or even loan denial.
+* *Risky Financial Behavio*r: Lenders view new loans as potential risks, especially if they are taken out shortly before applying for a mortgage. It may signal to them that you are overextending yourself financially.<br>
+* *Lower Credit Score*: Each new credit inquiry affects your credit score. Lower credit scores can lead to higher interest rates on your mortgage or even loan denial.
 
 {% include pullquote.html %}
 
@@ -33,7 +32,7 @@ Applying for a home loan can be an exciting yet nerve-wracking process. It often
 
 * *Increased Debt-to-Income Ratio*: As with other loans, credit card debt can contribute to a high DTI, making it difficult to qualify for a mortgage.
 
-* *Negative Payment History*: Missing credit card payments can result in late payment notations on your credit report, which can be a red flag for lenders.
+* *Negative Payment History*: Missing credit card payments can result in late payment notations on your credit report, which can be a red flag for lenders.​​​​​​​
 
 **3\. Changing jobs or taking a leave of absence.** Stability and consistent income are key factors lenders consider when assessing your mortgage application. Changing jobs or taking a leave of absence can raise concerns for lenders. Try to maintain a stable employment situation during the mortgage application process. If a job change is inevitable, consult with your lender to understand how it might impact your application. Here's why changing jobs is a red flag:
 
