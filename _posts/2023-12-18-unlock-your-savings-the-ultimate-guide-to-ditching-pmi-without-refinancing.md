@@ -19,7 +19,7 @@ youtube_code: YSNH9B2Dx9o
 
 If you're a homeowner who secured a mortgage in 2019, 2020, or 2021, there's a chance you could pocket an extra $200 or more each month without the hassle of a refinance. The key to this potential savings lies in understanding and eliminating Private Mortgage Insurance (PMI).
 
-**Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video.**
+**Feel free to watch the full message above or use these timestamps that will direct you to various points in the video.**
 
 0:00 — Introducing today’s topic
 
