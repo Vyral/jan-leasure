@@ -13,9 +13,6 @@ use_youtube_image: true
 youtube_alternate_image:
 youtube_code:
 ---
-
-{% include excerpt.html %}
-
 As the buying season approaches, many self-employed individuals are looking to purchase homes. However, the process can seem daunting compared to traditional W-2 employees. If you're self-employed and wondering about your mortgage options, this guide is for you. Here are your three main options:
 
 **1\. Conventional loan.** If you've paid significant taxes, you might qualify for a conventional loan. These loans are backed by Freddie Mac and Fannie Mae and require thorough documentation, including your tax returns. This route is more straightforward if your financial records are robust and comprehensive.
@@ -29,7 +26,6 @@ As the buying season approaches, many self-employed individuals are looking to p
 **Key considerations to keep in mind**
 
 * **Down payment.** Self-employed borrowers often need a larger down payment. Having 10-15% down can open up more mortgage options and make the approval process smoother.
-
 * **Credit score.** A good credit score enhances your chances of getting approved and may provide better interest rates. Ensure your credit is in good shape before applying.
 
 I work with hundreds of self-employed people and I can get you multiple options for loans. Reach out to me by phone or email so we can dive into the details of your situation and secure the best loan for you. I can work with you and your CPA to create a solid financial plan, maximizing your chances of approval.<br>
