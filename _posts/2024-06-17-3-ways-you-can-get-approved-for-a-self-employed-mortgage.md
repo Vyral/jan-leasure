@@ -23,6 +23,8 @@ As the buying season approaches, many self-employed individuals are looking to p
 
 **3\. 1099 Loan.** A 1099 loan is tailored for those who receive 1099 forms, such as real estate agents or individuals in seasonal sales like solar or pest control. With a 1099 loan, lenders can use up to 90% of your 1099 income, requiring just one year of documented 1099 income. This is advantageous compared to conventional loans, which typically require a two-year history. However, be prepared for a slightly higher interest rate.
 
+**4\. FHA loans.** Surprisingly enough, FHA loans are a great option if you’re self-employed. As long as you own at least 25% of your business, have a satisfactory debt-to-income ratio, and provide necessary documentation of your income, FHA loans are a simple and effective way to buy a home.
+
 **Key considerations to keep in mind**
 
 * **Down payment.** Self-employed borrowers often need a larger down payment. Having 10-15% down can open up more mortgage options and make the approval process smoother.
