@@ -2,6 +2,8 @@
 layout: post
 title: 'Home Buying 101: Inspections and Appraisals Explained'
 date: 2024-07-18 07:00:00
+tags:
+  - Home Buyer Tips
 excerpt: Learn why inspections and appraisals are a vital step in home buying.
 enclosure:
 pullquote: An appraiser's job is to assess the property's market value.
