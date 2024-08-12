@@ -17,7 +17,7 @@ youtube_code: WRyj8Ol4eKM
 
 {% include excerpt.html %}
 
-Are you noticing the trend of entire complexes of homes being built just for rent? It's becoming increasingly common, with the promise of a simplified lifestyle where you rent everything rather than own it. This shift raises important questions about your goals: do you aim for home ownership, or are you content with a future where you own nothing? Let's dive into this growing phenomenon and explore what it means for your financial future.
+Are you noticing the trend of entire complexes of homes being built just for rent? It's becoming increasingly common, with the promise of a simplified lifestyle where you rent everything rather than own it. This shift raises important questions about your goals: do you aim for home ownership, or are you content with a future where you own nothing? **Let's dive into this growing phenomenon and explore what it means for your financial future.**
 
 Recently, I've noticed they're building entire complexes of homes just for rent. Just look at what they're saying: "Home. Simplified." That's right. It's simple because you don't own anything. You'll rent everything from them. It's a straightforward model, but it raises a crucial question for me: Is my goal home ownership, or do I want to end up not owning anything?
 
