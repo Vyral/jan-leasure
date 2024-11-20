@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Headline: How I Helped a Client Get a Mortgage Out of State'
+title: How I Helped a Client Get a Mortgage Out of State
 date: 2024-11-20 07:00:00
 tags:
 excerpt: Move stress-free with expert mortgage help in 14 states.
@@ -24,6 +24,6 @@ Relocating or buying a second home doesn’t have to be hard. **Many of my clien
 
 **Last week, I helped my friend Carl buy a second home in Georgia**. He wanted to be closer to friends and is now part of a growing community. Helping people like Carl is why I love what I do.
 
-I’m licensed in 14 states, including Illinois, Wisconsin, Florida, Georgia, and California. My team takes care of the details so you don’t have to. We make the mortgage process clear and easy, no matter where you’re buying. ** ** Whether you’re moving or buying a second home, I’m here to help. You can call or text me at **(847) 362-1335** today and make your next move stress-free!
+I’m licensed in 14 states, including Illinois, Wisconsin, Florida, Georgia, and California. My team takes care of the details so you don’t have to. We make the mortgage process clear and easy, no matter where you’re buying. \*\* \*\* Whether you’re moving or buying a second home, I’m here to help. You can call or text me at **(847) 362-1335** today and make your next move stress-free!
 
 &nbsp;
