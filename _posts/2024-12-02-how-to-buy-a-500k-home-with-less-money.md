@@ -26,7 +26,7 @@ If you’ve been holding off on buying a home because you think you need a massi
 * FHA loan: You’ll need 3.5% down, or $17,500 for the same home.
 * VA loan: If you qualify, you need 0% down. That’s no money upfront.
 
-**How does this change things?** Think about it. With these options, you can stop waiting to save tens of thousands of dollars. A conventional or FHA loan opens the door to homeownership with just a fraction of the amount, while a VA loan lets you skip the down payment entirely if you're a veteran or active-duty military.
+**How does this change things?** Think about it. With these options, you can stop waiting to save tens of thousands of dollars. A conventional or FHA loan opens the door to homeownership with just a fraction of the amount, while a VA loan lets you skip the down payment entirely if you’re a veteran or active-duty military.
 
 {% include pullquote.html %}
 
@@ -36,6 +36,6 @@ If you’ve been holding off on buying a home because you think you need a massi
 * FHA loans are perfect for first-time buyers or those with lower credit scores.
 * VA loans are exclusive to eligible veterans, service members, and their families.
 
-These programs exist to make buying a home achievable. You don’t need $100,000 to get started. Depending on your situation, you could need as little as $15,000—or nothing at all. **If you have any questions about homeownership, feel free to call or text me at (847) 362-1335**, and I'll help you explore your options so you can move closer to owning your dream home.
+These programs exist to make buying a home achievable. You don’t need $100,000 to get started. Depending on your situation, you could need as little as $15,000—or nothing at all. **If you have any questions about homeownership, feel free to call or text me at (847) 362-1335**, and I’ll help you explore your options so you can move closer to owning your dream home.
 
 &nbsp;
