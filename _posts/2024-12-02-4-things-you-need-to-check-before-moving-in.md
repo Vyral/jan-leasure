@@ -31,4 +31,4 @@ Moving into a new house is exciting, but let me tell you—it’s easy to miss s
 
 **Is the bathroom caulk fresh?** This one is critical. Check the caulk around your tubs, showers, and sinks. Old, cracked caulk can lead to mold, leaks, and expensive repairs. Re-caulk those areas to keep everything looking clean and to avoid problems later. It’s quick, easy, and worth it.
 
-These four checks can save you so much trouble down the line. Don’t skip them. Take a few hours to go through your new house and handle these small tasks. Remember, it’s your home—make it work for you from day one. **If you have any questions, feel free to call or text me at (847) 362-1335.**
+These four checks can save you so much trouble down the line. Don’t skip them. Take a few hours to go through your new house and handle these small tasks. Remember, it’s your home—make it work for you from day one. **If you have any questions, feel free to call or text me at 847-293-2111.**
